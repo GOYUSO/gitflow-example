@@ -1,0 +1,26 @@
+{
+  "name": "gitflow-example",
+  "version": "0.1.0",
+  "description": "A repository showing how to apply gitflow methodology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOYUSO/gitflow-example.git"
+  },
+  "keywords": [
+    "git",
+    "flow",
+    "gitflow",
+    "repository",
+    "methodology"
+  ],
+  "author": "antsegcan@gmail.com (http://github.com/GOYUSO)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GOYUSO/gitflow-example/issues"
+  },
+  "homepage": "https://github.com/GOYUSO/gitflow-example#readme"
+}

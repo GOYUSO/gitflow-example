@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/GOYUSO/gitflow-example/issues"
   },
-  "homepage": "https://github.com/GOYUSO/gitflow-example#readme"
+  "homepage": "https://github.com/GOYUSO/gitflow-example#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }

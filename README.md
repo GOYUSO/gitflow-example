@@ -1,4 +1,4 @@
-# Git flow example
+# Git flow example (v.0.3.0)
 This is a brief explanation of how to build a project using git flow.
 
 ## What is git flow?

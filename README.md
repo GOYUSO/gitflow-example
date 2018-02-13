@@ -1,6 +1,8 @@
 # Git flow example (v.0.3.0)
 This is a brief explanation of how to build a project using git flow.
 
+I have intentionally added branches that should not appear (feature, release...) to see their structure.
+
 ## What is git flow?
 Git flow is an amazing branching method for Git.
 
